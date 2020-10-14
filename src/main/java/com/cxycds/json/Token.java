@@ -1,4 +1,4 @@
-package com.cxycds;
+package com.cxycds.json;
 
 /**
  * Created by leicheng on 2020/6/5.

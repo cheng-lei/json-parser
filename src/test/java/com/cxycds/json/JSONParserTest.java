@@ -1,5 +1,6 @@
-package com.cxycds;
+package com.cxycds.json;
 
+import com.cxycds.json.JSONParser;
 import org.junit.Test;
 
 import java.util.HashMap;
